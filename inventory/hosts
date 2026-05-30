@@ -1,0 +1,5 @@
+[web]
+<YOUR_UBUNTU_PRIVATE_IP>
+
+[web:vars]
+ansible_user=ubuntu
